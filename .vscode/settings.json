@@ -4,5 +4,8 @@
     "plaintext": false,
     "markdown": false,
     "csharp": false
+  },
+  "terminal.integrated.env.osx": {
+    "PATH": "/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
   }
 }
