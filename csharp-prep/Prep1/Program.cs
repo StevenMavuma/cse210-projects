@@ -9,6 +9,7 @@ class Program
         Console.Write("What is your last name? ");
         string lname = Console.ReadLine();
 
+        Console.WriteLine("");
         Console.WriteLine($"Your name is {fname}, {lname}.");
     }
 }
